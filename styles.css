@@ -1,0 +1,67 @@
+
+#section1{
+    padding: 20;
+    /* margin: 20px; */
+    background-image: linear-gradient(to right, #f19854, #6a7070);
+    height: 550px;
+    width: 100%;
+}
+
+
+#section2{
+background-color: rgb(119, 83, 156);
+padding: 20;
+margin-top: 20px
+}
+
+#section3{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    margin: 20px
+}
+
+#section4{
+    background-color: lightcoral
+}
+
+.images{width: 350px;
+    height: 550px;
+
+
+}
+
+body{
+    padding-top: 100px;
+    padding-bottom: 50px;
+    padding-left: 15px;
+    padding-right: 10px;
+}
+
+.navbar{
+    background-image: rgb(95, 115, 69);
+}
+
+/* humbling moment */
+.h12{font-size: 48px;
+    text-align: center;
+    align-items: center;
+}
+
+.h11{
+    text-align: center;
+    align-items: center;
+font-size: 32px;    color: rgb(8, 29, 218);
+
+}
+
+footer {
+    font-weight: 777;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 2rem;
+    background: rgba(47, 149, 13, 0.668);
+    border-top: 4px solid rgb(221, 18, 18);
+    color: black;
+    margin: 15px;
+}
